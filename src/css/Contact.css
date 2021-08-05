@@ -21,5 +21,10 @@
     font-size: 16px;
     border-radius: 6px;
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 14px;
+}
+
+.contact button {
+    cursor: pointer;
+    padding: 10px;
 }
