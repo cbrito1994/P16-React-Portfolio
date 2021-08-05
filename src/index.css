@@ -3,6 +3,9 @@
 @import 'css/Footer.css';
 @import 'css/Header.css';
 @import 'css/Resume.css';
+@import 'css/AboutMe.css';
+@import 'css/Portfolio.css';
+@import 'css/PortfolioProject.css';
 
 * {
   margin: 0
@@ -20,7 +23,7 @@ body {
 #root {
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 code {
